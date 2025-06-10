@@ -1,4 +1,5 @@
-# Welcome to My GitHub Profile
+# Welcome to My GitHub Profile ![](http://i.imgur.com/OUkLi.gif)
+
 
 Hi! I'm a programming student with one year of experience, currently expanding my skills and knowledge every day. Alongside my studies, I work as a tutor at UTN, where I help others learn and improve their programming abilities.
 
