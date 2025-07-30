@@ -5,7 +5,7 @@ Hi! I'm Nesheen, a programming student with one year of experience, currently ex
 
 ## Skills & Technologies
 - **Python:** Intermediate level — comfortable with scripting, automation, and problem-solving.
-- **Java:** basic level — familiar with object-oriented programming and application development.
+- **Java:** Intermediate level — familiar with object-oriented programming and application development.
 - **SQL:** basic level — able to design queries, manage databases, and perform data manipulation.
 
 ## About Me
