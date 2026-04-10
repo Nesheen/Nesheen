@@ -1,28 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=¡Hola+a+todos!;Soy+desarrollador+software;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=¡Hi+everyone+,+I'm+Neyén+!;I'm+software+engineer;Welcome+to+my+profile)](https://git.io/typing-svg)
 
-# Welcome to My GitHub Profile 👋🗿🖥️
-# Bienvenido a mi perfil de GitHub 👋🗿🖥️
-![](http://i.imgur.com/Ssfp7.gif)
-
-Hi! I'm Nesheen, a programming student with two year of experience, currently expanding my skills and knowledge every day. Alongside my studies, I work as a tutor at UTN, where I help others learn and improve their programming abilities.
-
-Hola soy Neyén!, estudiante de programación con dos años de experiencia, actualmente me encuentro expandiendo mis habilidades y conociminetos día a día. Aparte de mis estudios, estoy trabajando como tutor para la UTN, donde ayudo a otros estudiantes a mejorar sus habilidad en programación
 ## Skills & Technologies
 - **Python:** Intermediate level — comfortable with scripting, automation, and problem-solving.
 - **Java:** Intermediate level — familiar with object-oriented programming and application development.
 - **SQL:** basic level — able to design queries, manage databases, and perform data manipulation.
+  
+## AI & Automation
+  - **LLMs:** Proficient in prompt engineering and integration with Claude and OpenAI.
+  - **AI Agents:** Experience building workflows and custom agents using n8n and Agent-AI.
+  - **Tools:** Knowledge in vector databases and AI-driven automation for SaaS MVPs.
 
 ## About Me
 I'm passionate about coding and continuously learning new technologies. My tutoring role at UTN has helped me deepen my understanding by teaching others, and I'm always eager to collaborate on projects or contribute to open-source communities.
 
-Soy un apasionado del código y me encuentro aprendiendo nuevas herramientas todo el tiempo. My rol como tutor en la UTN me sirve para profundizar mi conocimiento en base de ayudar a otros
-Feel free to explore my repositories and connect with me!
-
 
 Feel free to explore my repositories and connect with me!
-Sentite libre de revisar mi repositorio!
-
 ---
-
 Thank you for visiting! :D
-Gracias por visitar! :D
+
+![Retro Terminal Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
